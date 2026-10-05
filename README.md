@@ -1,3 +1,5 @@
+> **Moved:** query-table now lives in [michelr/dotclaude](https://github.com/michelr/dotclaude/tree/main/plugins/query-table). This repo is archived.
+
 # query-table
 
 A Claude Code mod that draws query results as aligned, colored tables in the transcript, with the SQL shown above them.
